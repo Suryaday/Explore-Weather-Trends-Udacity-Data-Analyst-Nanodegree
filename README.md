@@ -1,7 +1,7 @@
 # DAND_Udacity_1
-This is the Explore Weather Trends exercise of Udacity's Nanodegree program
-
 Explore-Weather-Trends-Udacity
+
+This is the Explore Weather Trends exercise of Udacity's Nanodegree program
 
 This project was completed as part of the criteria of a course in Udacity Data Analyst Nano Degree. 
 
@@ -23,7 +23,7 @@ Tools Used:
 
 Submission
 
-How to calcualte Moving Averages?
-How to visualize the trends between local and global average temperatures?
-Plot the chart with local and global temperature trends
-Write up atleast four observations about the similarities and differences in the trends.
+1. How to calcualte Moving Averages?
+2. How to visualize the trends between local and global average temperatures?
+3. Plot the chart with local and global temperature trends
+4. Write up atleast four observations about the similarities and differences in the trends.

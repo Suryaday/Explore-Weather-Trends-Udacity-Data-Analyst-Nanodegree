@@ -1,5 +1,4 @@
-# DAND_Udacity_1
-Explore-Weather-Trends-Udacity
+# DAND_Udacity_1_Explore-Weather-Trends-Udacity
 
 This is the Explore Weather Trends exercise of Udacity's Nanodegree program
 
